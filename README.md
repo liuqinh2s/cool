@@ -1,2 +1,19 @@
-# News
-High-quality information source
+- 阮一峰科技周刊(科技行业)：[https://www.ruanyifeng.com/blog/](https://www.ruanyifeng.com/blog/)
+- 王局拍案(新闻行业)：[https://www.youtube.com/@Wangzhian](https://www.youtube.com/@Wangzhian)
+- 和菜头(作家)：微信公众号，槽边往事
+- 何同学
+- 南翔不爱吃饭
+- 水果猎人杨晓洋
+- 毕导
+- 赛博食录
+- 听泉鉴宝
+- 胡侃侃
+- 老陌(金融过桥)
+- 叫我胖大星先生(小红书博主，老婆是越南的)
+- 七个佩奇爸爸(小红书，7个娃)
+- 老吴点唱机(小红书，挑战唱歌)
+- 一个卖土豆的胖子(专业卖土豆地瓜，教你买菜)
+- 林亦LYi（小红书，算法工程师）
+- Nov姐姐
+- 图图妈妈
+- 何老师在发呆（美学）
