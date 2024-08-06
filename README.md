@@ -35,10 +35,7 @@
 ## 金融
 
 - [胡侃侃](https://www.douyin.com/user/MS4wLjABAAAABaHXmLSGAwxFImXRvz8e1iiUPmyO5spfmmzryT1HCX-CX9qYU0gZsLcAEE43mwW1)
-
-### 老陌
-
-抖音：[https://www.douyin.com/user/MS4wLjABAAAAKxPOisbl6kuP6LlgTLeUcbhXRNR291byPMYPjxwdKdRQmZXFlIorOmeFnZyZ39Ar](https://www.douyin.com/user/MS4wLjABAAAAKxPOisbl6kuP6LlgTLeUcbhXRNR291byPMYPjxwdKdRQmZXFlIorOmeFnZyZ39Ar)
+- [老陌](https://www.douyin.com/user/MS4wLjABAAAAKxPOisbl6kuP6LlgTLeUcbhXRNR291byPMYPjxwdKdRQmZXFlIorOmeFnZyZ39Ar)
 
 ## 异国婚恋
 
