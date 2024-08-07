@@ -27,6 +27,7 @@
 
 - [毕导](https://www.douyin.com/user/MS4wLjABAAAA26unzRl4eTG2pAGnxD1pS3kMvjaUIcNxvLGr3VJOiKU)
 - [Nov姐姐](https://space.bilibili.com/9448580)
+- [matrix67](https://matrix67.itch.io/)：数学
 
 ## 古董收藏
 
@@ -63,3 +64,6 @@
 
 - [林亦LYi](https://www.douyin.com/user/MS4wLjABAAAAtSFk_pO6mcT_31WOWK60mRDvh_0Op6UvYT9dm77bCT20dADpgjU8ccRfj-VgY-qU)
 
+## 教育
+
+- [暴叔讲留学](https://www.douyin.com/user/MS4wLjABAAAAyjbq_bGtOcY43qTgM8p5FpWiz9DCmVNEbyI-q8PQirvJBymewqgCtayZuPOoeHPs)
