@@ -16,6 +16,7 @@
 - [硬核的半佛仙人](https://space.bilibili.com/37663924)
 - [是景岁啊](https://www.douyin.com/user/MS4wLjABAAAA_1DwRjJqOz8XliDnb9B2AmAVZk4weNrkAw88bPLi0dqbJv1Wb1k6SUw9lYERJ8jD)
 - [白嫖生活指南](https://www.douyin.com/user/MS4wLjABAAAAHQi62DY1UQVU-cwVNUSOsyJB08fzylPijgpHigkAUhI)
+- [罗振宇](https://www.douyin.com/user/MS4wLjABAAAAVXtxOwQQIXQdGWJSA2x4YUqh7Y8KUSszOQ3I5y8GhIk)
 
 ## 非遗
 
@@ -26,6 +27,8 @@
 
 - [水果猎人杨晓洋](https://www.douyin.com/user/MS4wLjABAAAAvVwfkKT3Fn8soFrqSffBPTcJK83m0nfmxbmgCF8kOPhWsPPoX2OQziJh23lMQ1pf)
 - [赛博食录](https://www.douyin.com/user/MS4wLjABAAAAyJs_NVpCGw-311Z3gSbpsHTZ3tW_vMHsPxSZ2eHTbIIDidPrvXx11gZ1YTNlesnx)
+- [阿蔡美食教学](https://www.douyin.com/user/MS4wLjABAAAAxJirP6gmDVnJwww0BTEn-Y16mB-t586Gg_O7_toCznY?vid=7399568291393490226)
+
 
 ## 科普
 
@@ -58,9 +61,10 @@
 
 - [育婴师陈陈姐姐](https://www.xiaohongshu.com/user/profile/6229d16d0000000010006fe3)
 
-## K歌
+## 音乐
 
 - [老吴点唱机](https://www.xiaohongshu.com/user/profile/5de3e1eb0000000001004a0b)
+- [精选音乐库](https://www.douyin.com/user/MS4wLjABAAAAVGryWvEZT_XpgZXEKpSYeS2r1URdcbjqxpYuHESI9YE)
 
 ## 农产品
 
@@ -70,6 +74,7 @@
 ## 艺术
 
 - [何老师在发呆](https://www.douyin.com/user/MS4wLjABAAAAOdg_QDS4FuzMH6gTpQbqpO-FU099_QF_nYpEVfe7ZEpeYUcRPsCtSYsVCEUqkyYm)
+- [如莱大boss](https://www.douyin.com/user/MS4wLjABAAAAqgdyquQMxJLfKlZxHJJ4butjbhhNPLMcWjAu6bBIGe4)
 
 ## AI
 
@@ -88,7 +93,7 @@
 
 ## 家居
 
-- [禅意生活美学](https://www.xiaohongshu.com/user/profile/62e29ca1000000001f016249)
+- [索菲亚官方整家定制](https://www.douyin.com/user/MS4wLjABAAAAhVPF5CrvMvDgWhlAKrilsH9gEvaZE3op7RCHwtProwY)
 
 ## 摄影
 
@@ -97,3 +102,26 @@
 ## 地理 && 旅游
 
 - [中国国家地理](https://space.bilibili.com/2000819931)
+
+## 电影解说 && 电影剪辑
+
+- [云晨电影](https://www.douyin.com/user/MS4wLjABAAAAPfOR1L12VKhi361_bQezAF4ew5agxKaugWfKJZ2CBwk)
+- [周扒片](https://www.douyin.com/user/MS4wLjABAAAAOfpadErUvgff6yM0OcTsAlkdmbD4UpiJfjvPGPGzyNU)
+
+## 田园
+
+- [潇洒仟哥](https://www.douyin.com/user/MS4wLjABAAAAkqC26gp9ppCee24_iRHwcf42aURdkCD3SACsaTKNX7I)
+- [禅意生活美学](https://www.xiaohongshu.com/user/profile/62e29ca1000000001f016249)
+
+## 美色
+
+- [程Yooooo](https://www.douyin.com/user/MS4wLjABAAAA2JmxeROm5PsNNZ7H1_1U5ek97hQAXxZzbYWUxWMheVs)
+- [王德芙](https://www.douyin.com/user/MS4wLjABAAAAiXeL8UUfi0KfVrjbpc2LJKSGiPXEBomMz5i_DCbDsSYXhCJ6PZm9c7DUE1KCQ2cy)
+- [心碎小甜.](https://www.douyin.com/user/MS4wLjABAAAA4Z-JwP5jF4jlw2m_mTIy1PL-vP3Ec1W09sHmYFa8X1U)
+- [速溶小高](https://www.douyin.com/user/MS4wLjABAAAAG-1dkIQooVUwGLFDw8JZUb8XLDqB76JdD_9SY9p6_mylCC69E7lbizTay-WBgVM5)
+- [逍飞](https://www.douyin.com/user/MS4wLjABAAAAxzMzmRDvE3PVnUgZeKfa7Sljo9LrTUQCw3cEggxuPLg)
+- [水兵月野兔兔](https://space.bilibili.com/94215602)
+
+## 宠物
+
+- [麻薯小卷](https://www.douyin.com/user/MS4wLjABAAAARBoBp9oD1uAHJ3ucoBx4InRW2Zra7MDX0yMImeAqmf4)
