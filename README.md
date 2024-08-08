@@ -19,6 +19,7 @@
 - [白嫖生活指南](https://www.douyin.com/user/MS4wLjABAAAAHQi62DY1UQVU-cwVNUSOsyJB08fzylPijgpHigkAUhI)
 - [罗振宇](https://www.douyin.com/user/MS4wLjABAAAAVXtxOwQQIXQdGWJSA2x4YUqh7Y8KUSszOQ3I5y8GhIk)
 - [小李student](https://space.bilibili.com/19156061)
+- [第二大脑计划](https://www.xiaohongshu.com/user/profile/65a3f2d30000000004017399)
 
 ## 直播带货
 
@@ -134,6 +135,10 @@
 - [水兵月野兔兔](https://space.bilibili.com/94215602)
 - [刘佳仪](https://www.douyin.com/user/MS4wLjABAAAAnvD7BpQpnfCFuesq34wgglMS9xG63C1iHAYqEB34eOA)
 - [奶瓶不甜🫧](https://www.douyin.com/user/MS4wLjABAAAAhyi_rpWe4KzEuLZonsXd5ppCowlJEAnkIdR3I4UoG3StFUaTul3-NQE1gpwtj39P)
+- [人鱼线的pdd](https://www.douyin.com/user/MS4wLjABAAAAIwqiRleY1corOa76nX_IrqglXnz-1UjpXWz6TfoTDa8)
+- [可人爱喝茶](https://www.douyin.com/user/MS4wLjABAAAAP1ziH2HsUThbtpn6MjYmKj-fL5yVXr_HvtIPR1zMLsw)
+- [花碎花](https://www.douyin.com/user/MS4wLjABAAAAsoDKrH5SmC4vwJPQvpwYu4l9mmLvmGB9SceOW-BPACI)
+- [荔只只](https://www.douyin.com/user/MS4wLjABAAAACRNNntePH2AZN-7psASTcZZyBl8I8LtxXy_BwUASb8K7j9tjmFup6pHvFsHVLyVG)
 
 ## 宠物
 
