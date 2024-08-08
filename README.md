@@ -15,19 +15,27 @@
 - [老师好我叫何同学](https://space.bilibili.com/163637592)
 - [硬核的半佛仙人](https://space.bilibili.com/37663924)
 - [是景岁啊](https://www.douyin.com/user/MS4wLjABAAAA_1DwRjJqOz8XliDnb9B2AmAVZk4weNrkAw88bPLi0dqbJv1Wb1k6SUw9lYERJ8jD)
+- [天才小熊猫](https://www.douyin.com/user/MS4wLjABAAAAbV4b87zK6ATbJMwFHE7dvhEQ2S78UK26Dtr9a5UzzUw)
 - [白嫖生活指南](https://www.douyin.com/user/MS4wLjABAAAAHQi62DY1UQVU-cwVNUSOsyJB08fzylPijgpHigkAUhI)
 - [罗振宇](https://www.douyin.com/user/MS4wLjABAAAAVXtxOwQQIXQdGWJSA2x4YUqh7Y8KUSszOQ3I5y8GhIk)
+- [小李student](https://space.bilibili.com/19156061)
+
+## 直播带货
+
+- [疆域阿力木](https://www.douyin.com/user/MS4wLjABAAAA1VO-KeYZXzkicBgDLKY6jdXSSxMUGb8U_S2eu3aUFe3CL5neJ3OCd3rNunPB7ofh)：在新疆卖蜂蜜
 
 ## 非遗
 
 - [南翔不爱吃饭](https://www.douyin.com/user/MS4wLjABAAAAUx_0_1O2l2nScHoPafDfaCoaZ0Rh58qab7slIEJ66zg)
 - [江寻千（九月）](https://www.douyin.com/user/MS4wLjABAAAAigFjTEOAwKibGXwx9X5mWfu1uOUJWfeoHpvaXqzzRc0)
+- [彭传明](https://www.douyin.com/user/MS4wLjABAAAA3BkZcoTZnfQr0aEaN4UZ9ny2f88-oZAhtAfg_9FGS6w)
 
 ## 美食
 
 - [水果猎人杨晓洋](https://www.douyin.com/user/MS4wLjABAAAAvVwfkKT3Fn8soFrqSffBPTcJK83m0nfmxbmgCF8kOPhWsPPoX2OQziJh23lMQ1pf)
 - [赛博食录](https://www.douyin.com/user/MS4wLjABAAAAyJs_NVpCGw-311Z3gSbpsHTZ3tW_vMHsPxSZ2eHTbIIDidPrvXx11gZ1YTNlesnx)
 - [阿蔡美食教学](https://www.douyin.com/user/MS4wLjABAAAAxJirP6gmDVnJwww0BTEn-Y16mB-t586Gg_O7_toCznY?vid=7399568291393490226)
+- [王志傲](https://www.douyin.com/user/MS4wLjABAAAAS8JGm5V5AjCDKnlc8zJnsaekSzYTBbmX9IACIJWYrtlZAb_M2LDQxbFmsO0KwypX)
 
 
 ## 科普
@@ -65,6 +73,7 @@
 
 - [老吴点唱机](https://www.xiaohongshu.com/user/profile/5de3e1eb0000000001004a0b)
 - [精选音乐库](https://www.douyin.com/user/MS4wLjABAAAAVGryWvEZT_XpgZXEKpSYeS2r1URdcbjqxpYuHESI9YE)
+- [王大毛呀💓](https://www.douyin.com/user/MS4wLjABAAAAkA4CpbT-TNLAK_0-I-I6BSrAGhtG6MeoG7SloOjwABo)：原创 [去年夏天](https://www.douyin.com/video/6849613944269720832)
 
 ## 农产品
 
@@ -75,6 +84,7 @@
 
 - [何老师在发呆](https://www.douyin.com/user/MS4wLjABAAAAOdg_QDS4FuzMH6gTpQbqpO-FU099_QF_nYpEVfe7ZEpeYUcRPsCtSYsVCEUqkyYm)
 - [如莱大boss](https://www.douyin.com/user/MS4wLjABAAAAqgdyquQMxJLfKlZxHJJ4butjbhhNPLMcWjAu6bBIGe4)
+- [小画记](https://www.douyin.com/user/MS4wLjABAAAACe2-eju9naqqM1UYX4RB6LtoWste-cBLTWgLM4nk3YmvWYRGw7AELItuyPszktdw)
 
 ## AI
 
@@ -90,6 +100,7 @@
 
 - [自律一只猫](https://www.xiaohongshu.com/user/profile/610e739a0000000001001519)
 - [帅soserious](https://www.douyin.com/user/MS4wLjABAAAATsC4e0F06uCGqG6Fpfvsmfj5xabmZV1XIsWCBQBJDcc)
+- [西奇i健身](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk)
 
 ## 家居
 
@@ -121,6 +132,8 @@
 - [速溶小高](https://www.douyin.com/user/MS4wLjABAAAAG-1dkIQooVUwGLFDw8JZUb8XLDqB76JdD_9SY9p6_mylCC69E7lbizTay-WBgVM5)
 - [逍飞](https://www.douyin.com/user/MS4wLjABAAAAxzMzmRDvE3PVnUgZeKfa7Sljo9LrTUQCw3cEggxuPLg)
 - [水兵月野兔兔](https://space.bilibili.com/94215602)
+- [刘佳仪](https://www.douyin.com/user/MS4wLjABAAAAnvD7BpQpnfCFuesq34wgglMS9xG63C1iHAYqEB34eOA)
+- [奶瓶不甜🫧](https://www.douyin.com/user/MS4wLjABAAAAhyi_rpWe4KzEuLZonsXd5ppCowlJEAnkIdR3I4UoG3StFUaTul3-NQE1gpwtj39P)
 
 ## 宠物
 
