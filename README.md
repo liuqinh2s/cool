@@ -3,6 +3,14 @@
 ## 科技行业
 
 - [阮一峰科技周刊](https://www.ruanyifeng.com/blog/)
+- [零度解说](https://www.youtube.com/@%E9%9B%B6%E5%BA%A6%E8%A7%A3%E8%AF%B4)
+- [陈依涵](https://www.douyin.com/user/MS4wLjABAAAAGoVbKZ5MF4HIlI9BRcqbz9JIAahI1l9cpStdstpYHpW8hsr7WiRvH2r0czwNhJXe)
+- [tombkeeper](https://www.zhihu.com/people/tombkeeper)
+- [Ivony](https://www.zhihu.com/people/Ivony)
+- [姚冬](https://www.zhihu.com/people/yao-dong-27)
+- [吴军](https://www.zhihu.com/people/wu-jun-65-59)
+- [Evan You](https://x.com/youyuxi)：尤雨溪，Vue作者
+- [少数派​](https://sspai.com/)
 
 ## 新闻行业
 
@@ -16,10 +24,21 @@
 - [硬核的半佛仙人](https://space.bilibili.com/37663924)
 - [是景岁啊](https://www.douyin.com/user/MS4wLjABAAAA_1DwRjJqOz8XliDnb9B2AmAVZk4weNrkAw88bPLi0dqbJv1Wb1k6SUw9lYERJ8jD)
 - [天才小熊猫](https://www.douyin.com/user/MS4wLjABAAAAbV4b87zK6ATbJMwFHE7dvhEQ2S78UK26Dtr9a5UzzUw)
+- [江风有耳](https://space.bilibili.com/354653806)
 - [白嫖生活指南](https://www.douyin.com/user/MS4wLjABAAAAHQi62DY1UQVU-cwVNUSOsyJB08fzylPijgpHigkAUhI)
 - [罗振宇](https://www.douyin.com/user/MS4wLjABAAAAVXtxOwQQIXQdGWJSA2x4YUqh7Y8KUSszOQ3I5y8GhIk)
 - [小李student](https://space.bilibili.com/19156061)
 - [第二大脑计划](https://www.xiaohongshu.com/user/profile/65a3f2d30000000004017399)
+- [陈鹤皋（极危时刻反击术）](https://www.douyin.com/user/MS4wLjABAAAA0iMKYNByLzSKRcZm6AGQwLM9F3CORnBgZwbRwC3gPmp-l0bp9pS3Xpb1AJLNXEZ6)
+- [六角玲龙](https://www.douyin.com/user/MS4wLjABAAAAhmd08AXJEMwiNS8tTCmXrojoMBHww_7yanvhLVgP0rM)
+- [储殷教授](https://www.douyin.com/user/MS4wLjABAAAAcaWN_3-uvQOF1w13i1pQ4-iGSapsGqvtjNodeFEM3wU)
+- [刘庸干净又卫生](https://www.douyin.com/user/MS4wLjABAAAAsDMvTZDsROPSFERFO4MEP9BoIMwUHMFzcVNAJ7epYgY)
+- [张国伟_国家伟大](https://www.douyin.com/user/MS4wLjABAAAAjMCpW5C523dGoseWYldf9HS-r-unq2mIwcVE8eIt2tE)
+- [张同学.](https://www.douyin.com/user/MS4wLjABAAAAB1fW2xAktR_hBk36bxCPJSWPLyRQFebyrQqcEM6EvfqOD6gbI7ZW5sGIdEamuz0j)
+- [办公室小野](https://www.douyin.com/user/MS4wLjABAAAAd9aeWRuIl2iJx7zIY37WDcp1hFVJYNDwpssy-6Azj8s)
+- [朱一旦的枯燥生活](https://www.douyin.com/user/MS4wLjABAAAAuC0qHWV0UWcNpEEQE2sZljRfgG1C17OupkXqFs0hp5k)
+- [九边](https://www.douyin.com/user/MS4wLjABAAAA4KFjakkUYVE3nXtbng9-14802QP0BjEHLsJzNfCCB7cwPXdnmQnyQ0neAAEPgcf-)
+- [江卓尔](https://www.zhihu.com/people/jiang-zhuo-er)
 
 ## 直播带货
 
@@ -37,13 +56,15 @@
 - [赛博食录](https://www.douyin.com/user/MS4wLjABAAAAyJs_NVpCGw-311Z3gSbpsHTZ3tW_vMHsPxSZ2eHTbIIDidPrvXx11gZ1YTNlesnx)
 - [阿蔡美食教学](https://www.douyin.com/user/MS4wLjABAAAAxJirP6gmDVnJwww0BTEn-Y16mB-t586Gg_O7_toCznY?vid=7399568291393490226)
 - [王志傲](https://www.douyin.com/user/MS4wLjABAAAAS8JGm5V5AjCDKnlc8zJnsaekSzYTBbmX9IACIJWYrtlZAb_M2LDQxbFmsO0KwypX)
-
+- [吃饭的吃](https://www.douyin.com/user/MS4wLjABAAAAjBtOE0aupnCZMQhn3I-HPLNJT1BbC360hNzumiTcH6Uw-FKlqLwmr80pSeJFcp_M)
+- [波仔炒粉](https://www.douyin.com/user/MS4wLjABAAAAlynYSh14al0KXcZK9SFGieqtCm36d0Oaj3p7irgWi8I)
 
 ## 科普
 
 - [毕导](https://www.douyin.com/user/MS4wLjABAAAA26unzRl4eTG2pAGnxD1pS3kMvjaUIcNxvLGr3VJOiKU)
 - [Nov姐姐](https://space.bilibili.com/9448580)
 - [matrix67](https://matrix67.itch.io/)：数学
+- [无穷小亮的科普日常](https://www.douyin.com/user/MS4wLjABAAAAt2N8a6NX9fwUXQRUSW2_neQsQy_z-LRSM0S3jioc2rmS6bNhhEpq1cGSevx6Ynca)
 
 ## 古董收藏
 
@@ -54,11 +75,18 @@
 - [胡侃侃](https://www.douyin.com/user/MS4wLjABAAAABaHXmLSGAwxFImXRvz8e1iiUPmyO5spfmmzryT1HCX-CX9qYU0gZsLcAEE43mwW1)
 - [老陌](https://www.douyin.com/user/MS4wLjABAAAAKxPOisbl6kuP6LlgTLeUcbhXRNR291byPMYPjxwdKdRQmZXFlIorOmeFnZyZ39Ar)
 - [瓦肯财经](https://www.douyin.com/user/MS4wLjABAAAAxItemO29rvWnJJwUuZOoDD8DVNKoxBQfHZc9vGILW6oQR_yljdPUUwn1eA6_UiOJ)
+- [资本论](https://www.douyin.com/user/MS4wLjABAAAAd23jWkNJ2yPXAQseofIP-mEdScK7NhS5LFQun6nIjhs)
+- [小Lin说](https://space.bilibili.com/520819684)
 
 ## 异国婚恋
 
 - [叫我胖大星先生](https://www.xiaohongshu.com/user/profile/5bc4273a3b7aec0001943a9b):（男中国，女越南）
 - [俄罗斯珊珊和阿康](https://space.bilibili.com/456682169)：(男中国，女俄罗斯)
+
+## 恋爱
+
+- [童锦程798。](https://www.douyin.com/user/MS4wLjABAAAA4UZncV9bemBJ9WFytjwrFTl75yfRuOn_I-qKdcke1I0E-3NEET5WFSiDDSIGlRUU)
+- [乔妹来了](https://www.douyin.com/user/MS4wLjABAAAAdQlI85okPjXvWXLUNtKGKKJ3Q1who7GhL7eH56SVrk8)
 
 ## 亲子
 
@@ -75,6 +103,7 @@
 - [老吴点唱机](https://www.xiaohongshu.com/user/profile/5de3e1eb0000000001004a0b)
 - [精选音乐库](https://www.douyin.com/user/MS4wLjABAAAAVGryWvEZT_XpgZXEKpSYeS2r1URdcbjqxpYuHESI9YE)
 - [王大毛呀💓](https://www.douyin.com/user/MS4wLjABAAAAkA4CpbT-TNLAK_0-I-I6BSrAGhtG6MeoG7SloOjwABo)：原创 [去年夏天](https://www.douyin.com/video/6849613944269720832)
+- [一口甜^](https://www.douyin.com/user/MS4wLjABAAAAJKyZJ-6arFRSTrGVC8LrJgnY-CwjD0jDgt05BackX8k)
 
 ## 农产品
 
@@ -86,6 +115,8 @@
 - [何老师在发呆](https://www.douyin.com/user/MS4wLjABAAAAOdg_QDS4FuzMH6gTpQbqpO-FU099_QF_nYpEVfe7ZEpeYUcRPsCtSYsVCEUqkyYm)
 - [如莱大boss](https://www.douyin.com/user/MS4wLjABAAAAqgdyquQMxJLfKlZxHJJ4butjbhhNPLMcWjAu6bBIGe4)
 - [小画记](https://www.douyin.com/user/MS4wLjABAAAACe2-eju9naqqM1UYX4RB6LtoWste-cBLTWgLM4nk3YmvWYRGw7AELItuyPszktdw)
+- [姗笙手绘](https://www.douyin.com/user/MS4wLjABAAAA5uxGqglj7V1TTvBjgnUfMTB6t597aSw5YFDnmjRlU58)
+- [吹口琴的小园园](https://www.douyin.com/user/MS4wLjABAAAAl-P_AKXeLSFKSxltgsD7l-2pxcuRDlGcTgBSlFGnrLQ)
 
 ## AI
 
@@ -96,12 +127,18 @@
 ## 教育
 
 - [暴叔讲留学](https://www.douyin.com/user/MS4wLjABAAAAyjbq_bGtOcY43qTgM8p5FpWiz9DCmVNEbyI-q8PQirvJBymewqgCtayZuPOoeHPs)
+- [张雪峰老师](https://www.douyin.com/user/MS4wLjABAAAAtHXkrFr8fkv6ehPSw98yu2ZzwHR9iWziaOZFVQkCNy4)
+- [YJango](https://space.bilibili.com/344849038)：[渐构Modevol](https://www.modevol.com/) 教学革命
 
 ## 健身 && 养生
 
 - [自律一只猫](https://www.xiaohongshu.com/user/profile/610e739a0000000001001519)
 - [帅soserious](https://www.douyin.com/user/MS4wLjABAAAATsC4e0F06uCGqG6Fpfvsmfj5xabmZV1XIsWCBQBJDcc)
 - [西奇i健身](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk)
+- [陈暖央](https://www.douyin.com/user/MS4wLjABAAAA5i90lHLZgPF3pheNW7WtnxGwIN-9o2c5jK1zwpF6Tpo)
+- [美猪🐽](https://www.douyin.com/user/MS4wLjABAAAA3FaXM97M0hDI3eqOYhQ4kPDKJu5IJPL2CYMT7chzYivVfBQZX9LuZwFHs_bNpG3P)
+- [刘畊宏](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4)
+- [街健大山](https://www.douyin.com/user/MS4wLjABAAAAJXvoZv5kcrSyg2lxdi77gCZSVVJsTaPnyMj8zG7ok48)
 
 ## 家居
 
@@ -110,6 +147,7 @@
 ## 摄影
 
 - [Dandy](https://www.xiaohongshu.com/user/profile/5cc325d3000000001701e355)：[翁天信](https://www.dandyweng.com/)
+- [影视飓风](https://space.bilibili.com/946974)
 
 ## 地理 && 旅游
 
@@ -124,6 +162,8 @@
 
 - [潇洒仟哥](https://www.douyin.com/user/MS4wLjABAAAAkqC26gp9ppCee24_iRHwcf42aURdkCD3SACsaTKNX7I)
 - [禅意生活美学](https://www.xiaohongshu.com/user/profile/62e29ca1000000001f016249)
+- [哩哩丽](https://www.douyin.com/user/MS4wLjABAAAAN-vzan4afEK3k2uHgQJQwsEvLd6o86tGYQRzdN1mU1o)
+- [李子柒](https://www.douyin.com/user/MS4wLjABAAAAPCnTQLqza4Xqu-uO7KZHcKuILkO7RRz2oapyOC04AQ0)
 
 ## 美色
 
@@ -139,7 +179,35 @@
 - [可人爱喝茶](https://www.douyin.com/user/MS4wLjABAAAAP1ziH2HsUThbtpn6MjYmKj-fL5yVXr_HvtIPR1zMLsw)
 - [花碎花](https://www.douyin.com/user/MS4wLjABAAAAsoDKrH5SmC4vwJPQvpwYu4l9mmLvmGB9SceOW-BPACI)
 - [荔只只](https://www.douyin.com/user/MS4wLjABAAAACRNNntePH2AZN-7psASTcZZyBl8I8LtxXy_BwUASb8K7j9tjmFup6pHvFsHVLyVG)
+- [尹鸽-](https://www.douyin.com/user/MS4wLjABAAAACBS6ihJrpTdigr1NRjqf9JHY0kBdZwa_nU2UZPwizS0)
+- [杀猪饲料](https://www.douyin.com/user/MS4wLjABAAAAQR4WK9JBK9HPic72xsYWettM23c9_fRFjXS_4xmMKMk)
 
 ## 宠物
 
 - [麻薯小卷](https://www.douyin.com/user/MS4wLjABAAAARBoBp9oD1uAHJ3ucoBx4InRW2Zra7MDX0yMImeAqmf4)
+
+## 野生动物
+
+- [大猫饲养员](https://www.douyin.com/user/MS4wLjABAAAA5RtyEBEHN6Hu1LGAgJezVOAmbKaep1DZgeuTBWmqwMk)
+
+## 学习
+
+- [ElenaLin_青青](https://www.youtube.com/@ElenaLin)
+
+## 户外
+
+- [小熊.](https://www.douyin.com/user/MS4wLjABAAAAmf6LEwoEnL7XO2ykwU2dxAk43kkTxBOiDwtWEMskTwQ)
+
+## 演员
+
+- [毛晓彤](https://www.douyin.com/user/MS4wLjABAAAALTVw6qP34qqsNJ6xqN6jRRkJ78edpGiaIw-YeZGDvTk)
+
+## 美妆
+
+- [放空鬼马](https://www.douyin.com/user/MS4wLjABAAAALkyZjcqPOAMjFysHr6CFNUpFlnT80KWWW0jEANsWezcq8mJY4ENQ30Bt_krKM3Xp)
+
+## 车
+
+- [虾哥车世界](https://www.douyin.com/user/MS4wLjABAAAAMa5tZK16JkQTJRHu-H546jN0WvHbs34-13Sqlmv9vek)
+- [虎哥说车](https://www.douyin.com/user/MS4wLjABAAAAnzRLpvV9w2jXzWhHSsG5D4SoqfYazU1-fvgm4joaHXQ)
+
