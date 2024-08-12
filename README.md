@@ -39,6 +39,13 @@
 - [朱一旦的枯燥生活](https://www.douyin.com/user/MS4wLjABAAAAuC0qHWV0UWcNpEEQE2sZljRfgG1C17OupkXqFs0hp5k)
 - [九边](https://www.douyin.com/user/MS4wLjABAAAA4KFjakkUYVE3nXtbng9-14802QP0BjEHLsJzNfCCB7cwPXdnmQnyQ0neAAEPgcf-)
 - [江卓尔](https://www.zhihu.com/people/jiang-zhuo-er)
+- [思维实验室](https://space.bilibili.com/14583962/)
+- [小鸡词典](https://space.bilibili.com/261453718)
+- [一席精选](https://space.bilibili.com/26079128)
+- [我叫孙火旺](https://space.bilibili.com/586789337)
+- [耿同学讲故事](https://space.bilibili.com/1732848825)
+- [马佳PopMatta](https://space.bilibili.com/389988163)
+- [汤质看本质](https://space.bilibili.com/362588980)
 
 ## 直播带货
 
@@ -65,6 +72,8 @@
 - [Nov姐姐](https://space.bilibili.com/9448580)
 - [matrix67](https://matrix67.itch.io/)：数学
 - [无穷小亮的科普日常](https://www.douyin.com/user/MS4wLjABAAAAt2N8a6NX9fwUXQRUSW2_neQsQy_z-LRSM0S3jioc2rmS6bNhhEpq1cGSevx6Ynca)
+- [王阿华的解忧平行宇宙](https://space.bilibili.com/314021327)
+- [心河摆渡](https://space.bilibili.com/230983435)
 
 ## 古董收藏
 
@@ -129,6 +138,7 @@
 - [暴叔讲留学](https://www.douyin.com/user/MS4wLjABAAAAyjbq_bGtOcY43qTgM8p5FpWiz9DCmVNEbyI-q8PQirvJBymewqgCtayZuPOoeHPs)
 - [张雪峰老师](https://www.douyin.com/user/MS4wLjABAAAAtHXkrFr8fkv6ehPSw98yu2ZzwHR9iWziaOZFVQkCNy4)
 - [YJango](https://space.bilibili.com/344849038)：[渐构Modevol](https://www.modevol.com/) 教学革命
+- [李永乐老师](https://www.douyin.com/user/MS4wLjABAAAA6Y_2dEfQL7RUr6515qVJXINmruMWlL99pxhdMVjJfqs)
 
 ## 健身 && 养生
 
@@ -211,3 +221,7 @@
 - [虾哥车世界](https://www.douyin.com/user/MS4wLjABAAAAMa5tZK16JkQTJRHu-H546jN0WvHbs34-13Sqlmv9vek)
 - [虎哥说车](https://www.douyin.com/user/MS4wLjABAAAAnzRLpvV9w2jXzWhHSsG5D4SoqfYazU1-fvgm4joaHXQ)
 
+## 游戏
+
+- [潜艇伟伟迷](https://space.bilibili.com/97213827)
+- [游研社](https://space.bilibili.com/31700507)
